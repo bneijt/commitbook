@@ -20,4 +20,4 @@ Probably best size image is 3180x2382
 
 
 
-
+Say 24 pages and about a 1000 pictures -> about 40 pictures a page. Dimensions are 3 to 4, leaving us with about a 6x8 matrix per page.
