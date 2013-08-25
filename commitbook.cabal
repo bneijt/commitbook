@@ -19,4 +19,4 @@ executable commitbook
   main-is:            Main.hs 
   hs-source-dirs:     src
   -- other-modules:       
-  build-depends:       base ==4.5.*
+  build-depends:       base ==4.5.*, cairo ==0.12.*, gtk ==0.12.*, cmdargs ==0.10.*, transformers ==0.3.*
